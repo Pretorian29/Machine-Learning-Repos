@@ -23,11 +23,6 @@ import seaborn as sns
 from pandas import Series
 from numpy.random import randn
 
-from keras.utils.np_utils import to_categorical
-from sklearn.model_selection import train_test_split
-from keras.preprocessing.image import ImageDataGenerator
-from sklearn.model_selection import cross_val_score
-
 print('')
 print("Libraries imported...")
 print('')
